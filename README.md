@@ -1,2 +1,2 @@
 # -kinda-bad-Javascript-variable-turtorial
-hmmmmmmmmmmmmmmmmmmmmmm
+this is a JS variable turtorial that is kinda bad?
