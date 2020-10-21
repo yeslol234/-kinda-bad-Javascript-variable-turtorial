@@ -1,0 +1,11 @@
+//This defines my variable d.
+let d;
+//Here you can set the value of the variable.So here it defines that the variable d equals 4.Without it the variable is not identfied.
+d = 4;
+//To add the variable d to the console as a log we can use console.log() and insert our variable d.
+console.log(d);
+//This is all of the code but with a different variable with a different value
+let r;
+r = 6;
+console.log(r);
+//You can also do variables with words or a different version of a variable with a value.
